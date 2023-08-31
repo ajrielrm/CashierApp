@@ -1,4 +1,6 @@
-public class User extends com.smk.cashier.model.Model {
+import com.smk.cashier.model.Model;
+
+public class User extends Model {
     private  String userName;
     private  String password;
 
